@@ -2,9 +2,9 @@
 #### Ethan McGeever & Matthew Lam
 ######  Deahan Yu Section 1 
 
-Research Question: *“During the 2008 crisis, the 2020 COVID shock, and the 2021-2023 inflation period, which macroeconomic indicators (unemployment, PCE categories, energy, food, healthcare costs, market volatility, and housing activity) moved first and had the strongest relationship with delinquency rates?”*
+Research Question: *“During the 2008 crisis, the 2020 COVID shock, and the 2021-2023 inflation period, which macroeconomic indicators moved first and had the strongest relationship with delinquency rates?”*
 
-This is the final submission for Ethan McGeever & Matthew Lam for Data Science 2500. Our project utilizes lagged correlation analysis to better understand the relationship between macroeconomic indicators (unemployment, PCE, energy prices, food prices, healthcare costs, market volatility and housing activity) and delinquency types (credit card, consumer loans, mortgages) at lags of a quarter, half, three quarters, and a full year.
+This is the final submission for Ethan McGeever & Matthew Lam for Data Science 2500. Our project utilizes lagged correlation analysis to better understand the relationship between macroeconomic indicators (unemployment, PCE, energy prices, food prices, healthcare costs, market volatility, and housing activity) and delinquency types (credit card, consumer loans, mortgages) at lags of a quarter, half, three quarters, and a full year.
 
 #### Data Dictionary
 ##### Indicator Dataframes
